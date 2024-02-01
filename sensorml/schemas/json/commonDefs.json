@@ -69,7 +69,8 @@
         { "$ref": "sweCommonDefs.json#/definitions/AnySimpleComponent" },
         { "$ref": "sweCommonDefs.json#/definitions/Vector" },
         { "$ref": "sweCommonDefs.json#/definitions/DataArray" },
-        { "$ref": "sweCommonDefs.json#/definitions/Matrix" }
+        { "$ref": "sweCommonDefs.json#/definitions/Matrix" },
+        { "$ref": "sweCommonDefs.json#/definitions/DataRecord" }
       ]
     },
     "PathRef": {

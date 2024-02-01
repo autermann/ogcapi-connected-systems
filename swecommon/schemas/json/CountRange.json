@@ -15,7 +15,7 @@
           "$ref": "basicTypes.json#/definitions/AllowedValues"
         },
         "nilValues": {
-          "$ref": "basicTypes.json#/definitions/NilValuesText"
+          "$ref": "basicTypes.json#/definitions/NilValuesInteger"
         },
         "value": {
           "type": "array",
